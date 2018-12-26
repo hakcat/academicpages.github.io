@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: hakcat/academicpages.github.io
   branch: master
   site_domain: youthful-swartz-ca3262.netlify.com/
