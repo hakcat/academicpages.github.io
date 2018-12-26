@@ -3,6 +3,7 @@ backend:
   repo: hakcat/academicpages.github.io
   branch: master
   site_domain: youthful-swartz-ca3262.netlify.com/
+  site_id: youthful-swartz-ca3262.netlify.com
 media_folder: "images"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
@@ -15,4 +16,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       
- netlify.configure({'site_id': youthful-swartz-ca3262.netlify.com});
+# netlify.configure({'site_id': youthful-swartz-ca3262.netlify.com});
