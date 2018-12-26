@@ -14,3 +14,5 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      
+ netlify.configure({'site_id': youthful-swartz-ca3262.netlify.com});
