@@ -1,9 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
   repo: hakcat/academicpages.github.io
   branch: master
   site_domain: youthful-swartz-ca3262.netlify.com/
   site_id: youthful-swartz-ca3262.netlify.com
+  base_url: https://api.netlify.com
 media_folder: "images"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
