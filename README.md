@@ -15,5 +15,5 @@ If you are using this repo and now get a notification about a security vulnerabi
 
 # References:
 
-https://blog.mvp-space.com/10-steps-to-configure-jekyll-with-netlify-as-a-cms-d754d73ea731
+https://blog.mvp-space.com/10-steps-to-configure-jekyll-with-netlify-as-a-cms-d754d73ea731  
 https://youthful-swartz-ca3262.netlify.com/
