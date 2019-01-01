@@ -4,10 +4,14 @@ The site is hosted with github as backend using netlify.
 
 ### Note: What is what
 [`_data`](/_data/) contains  Navigation.yml: edits the top menu bar.  
-`_includes` and `_layouts` Describe the html files. tweak at your own risk.  
-`_pages` Create markdowns here to edit existing pages and create new ones. **Main element**
-`_portfolio` contains portfolio markdown and the corresponding html.
-`_posts` contain markdowns of your post.
+[`_includes`](/_includes/) and `_layouts` Describe the html files. tweak at your own risk.  
+[`_pages`](/_pages/) Create markdowns here to edit existing pages and create new ones. **Main element**  
+[`_portfolio`](/_portfolio/) contains portfolio markdown and the corresponding html.
+[`_posts`](/_posts/),[`_publications`](/_publications/), [`_talks`](/_talks/) and [`_teaching`](/_teaching/) contain respective markdowns. Just Simply edit them.  
+[`_assets`](/_assets/) contain css, js and fonts
+
+
+
 
 
 
