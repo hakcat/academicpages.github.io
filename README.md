@@ -1,5 +1,5 @@
 ## ReadME
-My website, created with the help of [Academic Pages by Mr. R Stuart Geiger](https://www.academicpages.github.io) and [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under MIT License.  
+My website, created with the help of [Academic Pages](https://www.academicpages.github.io) and [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under MIT License.  
 The site is hosted with github as backend using netlify.
 
 ### Note:
