@@ -3,7 +3,12 @@ My website, created with the help of [Academic Pages](https://www.academicpages.
 The site is hosted with github as backend using netlify.
 
 ### Note: What is what
-`_data` contains
+[`_data`](/_data/) contains  Navigation.yml: edits the top menu bar.  
+`_includes` and `_layouts` Describe the html files. tweak at your own risk.  
+`_pages` Create markdowns here to edit existing pages and create new ones. **Main element**
+`_portfolio` contains portfolio markdown and the corresponding html.
+`_posts` contain markdowns of your post.
+
 
 
 If you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
