@@ -12,4 +12,6 @@ redirect_from:
 My interests (academic): Machine Learning, Computer Vision.  
 My interests (Non-academic): Web designing, DIY electronic projects, Researching on Vedas and Indian culture (curently studying astrology and vastu)
 
-I manage my family website at [Venmaranalloor Matom](http://www.vedicfarm.in)
+I manage my family (ancestral) website at [_Venmaranalloor Matom_](http://www.vedicfarm.in)  
+I write tech articles at [_GeekyGa_](http://www.geeky.ga)  
+I also run a youtube channel at [_My Youtube Channel_](https://www.youtube.com/channel/UC5rhSx20GynAoR-h7h6XjkA)
