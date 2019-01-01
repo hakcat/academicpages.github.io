@@ -2,7 +2,10 @@
 My website, created with the help of [Academic Pages](https://www.academicpages.github.io) and [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under MIT License.  
 The site is hosted with github as backend using netlify.
 
-### Note:
+### Note: What is what
+`_data` contains
+
+
 If you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 ### To run locally (not on GitHub Pages, to serve on your own computer)
