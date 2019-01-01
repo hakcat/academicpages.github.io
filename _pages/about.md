@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi Earthling! Welcome to my cosmos and thanks for visiting!  
+
 >I'm a B.Tech (Hons) Undergraduate in the Department of Electronics and Communication Engineering at Kerala Technological University.  
 My interests (academic): Machine Learning, Computer Vision.  
 My interests (Non-academic): Web designing, DIY electronic projects, Researching on Vedas and Indian culture (curently studying astrology and vastu)
