@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## M. Aravind
-=======
+======
 
 Education
 ======
