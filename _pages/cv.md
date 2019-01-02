@@ -31,7 +31,7 @@ Skills
   * Tensorflow
   * Scikit-learn
 * LaTeX
-<!--
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
