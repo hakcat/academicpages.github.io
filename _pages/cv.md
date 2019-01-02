@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# M. Aravind
+## M. Aravind
+=======
 
 Education
 ======
@@ -41,6 +42,6 @@ Publications
   {% endfor %}</ul>  
   
     
-Also Available in [pdf](/files/cv.pdf) format.
+Also Available in [pdf](/files/M. Aravind Resume.pdf) format.
 
 
