@@ -19,17 +19,17 @@ Work experience
 ======
 * Summer 2018: Research Assistant
   * National Institute of Technology, Calicut
-  * Work: Improving PCA methods for moving object detection. (Project guide: Dr. Sudhish George)
+  * Work: Improving PCA methods for moving object detection. (Project guide: Dr. Sudhish George)   
 
 * Summer 2018: Technical Intern
   * Airports Authority of India
-  * Place: Thiruvananthapuram International Airport. 
+  * Place: Thiruvananthapuram International Airport.    
   
 * Founding Member and Mentor for IOT
-  * Special Interests Group, TKM College of Engineering.
+  * Special Interests Group, TKM College of Engineering.   
   
-* Founding Member- TKM Coder's Club (Formerly Automation and Robotics Consultancy)
-* Core member of two startups, which are now in funding stage.
+* Founding Member- TKM Coder's Club (Formerly Automation and Robotics Consultancy)   
+* Core member of two startups, which are now in funding stage.   
   
 Skills
 ======
