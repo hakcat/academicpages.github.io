@@ -32,7 +32,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: " Email" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -41,7 +41,7 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i>  Twitter</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -50,16 +50,16 @@
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
       {% if author.quora %}
-        <li><a href="{{ author.quora}}"><i class="fab fa-quora" aria-hidden="true"></i> Quora</a></li>
+        <li><a href="{{ author.quora}}"><i class="fab fa-quora" aria-hidden="true"></i>  Quora</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i>  LinkedIn</a></li>
       {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
       {% if author.instagram %}
-        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-instagram" aria-hidden="true"></i>  Instagram</a></li>
       {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
@@ -68,7 +68,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i>  Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fab -fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
