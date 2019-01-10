@@ -43,14 +43,3 @@ Awards & Honours
 Free time Hobbies
 ======
 _During my free time, I do Swimming, Content writing and research in tech-related stuffs, tweaking electronics and computer gadgets, web designing works (I have a reasonable knowledge with Web designing and photoshop) and Now I am busy documenting the heritage lineage of my 1000 year old family network. The site is currently under construction and you can read about it at here: [Venmaranalloor Matom](www.vedicfarm.in). I also write some nerdy stuff at [Techy Nigga](http://techynig.ga/)._ 
-
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
-     
-          
-           
-
-
-
