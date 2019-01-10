@@ -8,4 +8,3 @@ Contact information is below, including email and various web services.  This i
 
 * E-mail: _aravindmuraleedharan [dot] official [at] gmail [dot] com_
 * Telegram: [_@aravindhakcat_](https://t.me/aravindhakcat)
-* 
