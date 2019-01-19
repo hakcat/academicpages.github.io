@@ -1,6 +1,6 @@
 ## ReadME
 My website, created with the help of [Academic Pages](https://www.academicpages.github.io) and [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under MIT License.  
-The site is hosted with github as backend using netlify.
+The site is hosted with github as backend using **netlify**.
 
 ### Note: What is what
 [`_data`](/_data/) contains  Navigation.yml: edits the top menu bar.  
