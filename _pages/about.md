@@ -10,9 +10,9 @@ redirect_from:
 
 Hi Earthling! Welcome to my cosmos and thanks for visiting!  
 
->Currently, I'm a B.Tech (Hons) undergraduate student in the Department of Electronics and Communication Engineering at Kerala Technological University. {_[TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering) Campus._}
-My interests (Academic): Machine Learning, Computer Vision.  
-My interests (Non-academic): Web designing, DIY electronic projects, Researching on Vedas and Indian culture (curently I'm studying astrology and vastu and I'm researching on ways to explain the science of our ancient cultural practises in a lucid way to the general public)
+- Currently, I'm a B.Tech (Hons) undergraduate student in the Department of Electronics and Communication Engineering at Kerala Technological University. {_[TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering) Campus._}
+- My interests (Academic): Machine Learning, Computer Vision.  
+- My interests (Non-academic): Web designing, DIY electronic projects, Researching on Vedas and Indian culture (curently I'm studying astrology and vastu and I'm researching on ways to explain the science of our ancient cultural practises in a lucid way to the general public)
 
 I manage my family (ancestral) website at [_Venmaranalloor Matom_](http://www.vedicfarm.in)  
 I write tech articles at [_TechynigGa_](http://www.techynig.ga)  
