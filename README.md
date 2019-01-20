@@ -26,7 +26,7 @@ If you are using this repo and now get a notification about a security vulnerabi
 5. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.  
 
 # References:
-
+https://github.com/hakcat/academicpages.github.io/blob/master/_pages/markdown.md   
 https://blog.mvp-space.com/10-steps-to-configure-jekyll-with-netlify-as-a-cms-d754d73ea731  
 https://youthful-swartz-ca3262.netlify.com/   
 https://en.support.wordpress.com/markdown-quick-reference/
