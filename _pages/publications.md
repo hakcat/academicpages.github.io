@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications- will be updated soon"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
