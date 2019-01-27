@@ -29,4 +29,5 @@ If you are using this repo and now get a notification about a security vulnerabi
 https://github.com/hakcat/academicpages.github.io/blob/master/_pages/markdown.md   
 https://blog.mvp-space.com/10-steps-to-configure-jekyll-with-netlify-as-a-cms-d754d73ea731  
 https://youthful-swartz-ca3262.netlify.com/   
-https://en.support.wordpress.com/markdown-quick-reference/
+https://en.support.wordpress.com/markdown-quick-reference/   
+www.publicalbum.org for providing service for creating album from google photos.
