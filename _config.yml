@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "M. Aravind"
 title_separator          : "&#124;" # Jekyll is skipping '|' for an unknown reason. Hence I am using html for the same.
 name                     : &name "M. Aravind"
-description              : &description "personal description"
+description              : &description "personal website of M. Aravind"
 url                      : "https://www.arvinda.ml" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hakcat/academicpages.github.io"
