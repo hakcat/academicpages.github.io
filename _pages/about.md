@@ -10,7 +10,8 @@ redirect_from:
 
 Hi Earthling! Welcome to my cosmos and thanks for visiting!  
 
-- Currently, I'm a B.Tech (Hons) undergraduate student in the Department of [Electronics and Communication Engineering](http://tkmce.ac.in/?department-info=electronics-communication-engineering) at [Kerala Technological University](https://ktu.edu.in/),  {_[TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering) Campus._}
+- Currently, I'm a B.Tech (Hons) undergraduate student in the Department of [Electronics and Communication Engineering](http://tkmce.ac.in/?department-info=electronics-communication-engineering) at [Kerala Technological University](https://ktu.edu.in/),   
+{_[TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering) Campus._}
 - I love doing anything tech-related. I waste my time mostly in front of my computer, or with some other electronic gadgets.
 - My non academic interests include Web designing, DIY electronic projects, researching on Vedas and Indian culture,etc.. (curently I'm studying astrology and vastu and I'm trying to relate them with the conventional western science, I was trained in school and college.)
 
