@@ -30,3 +30,4 @@ My favourite quotes:
                                                 - Phunsukh Wangudu (fictional character from 3 idiots)
 
 ![](https://lh3.googleusercontent.com/YStoJyS9aOGR8Y32kBmHzLmx-K9ZpWLeqXPOMzkOWOwkzcVQ2x0-wTpoFyuj1U2VIwGcgItB-D1m8heV_k3VKdYDqGp59iKcAL6d5uBcxbdyCPBPEpIve12cpUT-i8HWRLDF8MTT-g=w1920-h1080)
+Oh! I forgot to mention- I do love travel,food & coffee.
