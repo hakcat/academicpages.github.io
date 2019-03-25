@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,26 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi Earthling! Welcome to my cosmos and thanks for visiting!  
+Hi, I’m Aravind, a senior year undergrad [Electronics and Communication Engineering](http://tkmce.ac.in/?department-info=electronics-communication-engineering) student at [TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering). I currently have a GPA of 8.65 (out of 10) and am among the top 15 students in my department.   
 
-- Currently, I'm a B.Tech (Hons) undergraduate student in the Department of [Electronics and Communication Engineering](http://tkmce.ac.in/?department-info=electronics-communication-engineering) at [Kerala Technological University](https://ktu.edu.in/),   
-{_[TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering) Campus._}
-- I love doing anything tech-related. I waste my time mostly in front of my computer, or with some other electronic gadgets.
-- My non academic interests include Web designing, DIY electronic projects, researching on Vedas and Indian culture,etc.. (curently I'm studying astrology and vastu and I'm trying to relate them with the conventional western science, I was trained in school and college.)
+I’m interested in the areas of computer vision and Robotics. I also work with various hobby electronics projects during my time.   
+ 
+I was a research intern at National Institute of Technology, Calicut during summer 2018 and did a project on moving object detection using the principles robust PCA. My undergraduate thesis is about designing an efficient Underwater AUV which is capable of performing intelligent surveillance. It is an inter-deppartmental collaborative research work with Mechanical Engineering Dept. of my college.  
 
-I manage my family (ancestral) website at [_Venmaranalloor Matom_](http://www.vedicfarm.in)  
-I write tech articles at [_TechynigGa_](http://www.techynig.ga)  
-I also run a youtube channel at [_My Youtube Channel_](https://www.youtube.com/channel/UC5loeOXaEJqgJfLdVznb0xQ)
-   
-My favourite quotes:
->  “The more upto date knowledge you possess, the more freer you are.”
-                                              - Dr. APJ Abdul Kalam
-   
->  “Lives of great men remind us, we can make our lives sublime.”
-                                        - Henry Wadsworth Longfellow (My grandfather used to quote me this)
-   
->  “Aaal izz welll”
-                                                - Phunsukh Wangudu (fictional character from 3 idiots)
+Apart from these, I love doing web-designing, photography, swimming, astronomy and has undergone 7+ years of formal training in [Mridangam](https://en.wikipedia.org/wiki/Mridangam).  
+
+Have a look at some of my gibberish here : [Aravindalokam](https://aravindalokam.ml).      
+Gracias!
 
 ![](https://lh3.googleusercontent.com/YStoJyS9aOGR8Y32kBmHzLmx-K9ZpWLeqXPOMzkOWOwkzcVQ2x0-wTpoFyuj1U2VIwGcgItB-D1m8heV_k3VKdYDqGp59iKcAL6d5uBcxbdyCPBPEpIve12cpUT-i8HWRLDF8MTT-g=w1920-h1080)
 Oh! I forgot to mention- I do love travel, food & coffee.
