@@ -9,11 +9,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
         
-  - title: "Random Thoughts"
-    url: /year-archive/
+ # - title: "Random Thoughts"
+ #   url: /year-archive/
         
-  - title: "Gallery"
-    url: /gallery/
+ # - title: "Gallery"
+ #   url: /gallery/
 
   - title: "CV"
     url: /cv/
