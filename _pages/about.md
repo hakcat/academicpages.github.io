@@ -12,7 +12,7 @@ Hi, I’m Aravind, a senior year undergrad [Electronics and Communication Engine
 
 I’m interested in the areas of computer vision and Robotics. I also work with various hobby electronics projects during my time.   
  
-I was a research intern at National Institute of Technology, Calicut during summer 2018 and did a project on moving object detection using the principles robust PCA. My undergraduate thesis is about designing an efficient Underwater AUV which is capable of performing intelligent surveillance. It is an inter-deppartmental collaborative research work with Mechanical Engineering Dept. of my college.  
+I was a research intern at National Institute of Technology, Calicut during summer 2018 and did a project on moving object detection using the principles of robust PCA. My undergraduate thesis is about designing an efficient Underwater AUV which is capable of performing intelligent surveillance. It is an inter-departmental collaborative research work with Mechanical Engineering Dept. of my college.  
 
 Apart from these, I love doing web-designing, photography, swimming, astronomy and has undergone 7+ years of formal training in [Mridangam](https://en.wikipedia.org/wiki/Mridangam).  
 
