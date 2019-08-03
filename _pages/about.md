@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Aravind, a senior year undergrad [Electronics and Communication Engineering](http://tkmce.ac.in/?department-info=electronics-communication-engineering) student at [TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering). I currently have a GPA of 8.65 (out of 10) and am among the top 15 students in my department.   
+Hi, I’m Aravind. I graduated in [Electronics and Communication Engineering](http://tkmce.ac.in/?department-info=electronics-communication-engineering) (Hons.) from [TKM College of Engineering](https://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering) with CGPA 8.73, in 2019 July.
 
 I’m interested in the areas of computer vision and Robotics. I also work with various hobby electronics projects during my time.   
  
