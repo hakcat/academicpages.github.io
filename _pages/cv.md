@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed and latest CV available: in [pdf](/files/M. Aravind Resume.pdf) format.  
+Detailed and latest CV available: in [pdf](/files/M_Aravind_Resume.pdf) format.  
      
 Education
 ======
