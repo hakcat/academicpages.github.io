@@ -16,7 +16,7 @@ I was a research intern at National Institute of Technology, Calicut during summ
 
 Apart from these, I love doing web-designing, photography, swimming, astronomy and has undergone 7+ years of formal training in [Mridangam](https://en.wikipedia.org/wiki/Mridangam).  
 
-Have a look at some of my gibberish here : [Aravindalokam](https://aravindalokam.ml).      
+Have a look at some of my gibberish here : [Aravindalokam](https://aravindalokam.com).      
 Gracias!
 
 ![](https://lh3.googleusercontent.com/YStoJyS9aOGR8Y32kBmHzLmx-K9ZpWLeqXPOMzkOWOwkzcVQ2x0-wTpoFyuj1U2VIwGcgItB-D1m8heV_k3VKdYDqGp59iKcAL6d5uBcxbdyCPBPEpIve12cpUT-i8HWRLDF8MTT-g=w1920-h1080)
