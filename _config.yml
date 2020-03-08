@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "M. Aravind"
   avatar           : "profile.png"
-  bio              : "Tech & Science Enthusiast, Electronics Engineer"
-  location         : "Kollam, Kerala, India"
+  bio              : "Tech & Science Enthusiast, Firmware Engineer"
+  location         : "Bengaluru, India"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "aravindmuraleedharan.official@gmail.com"
@@ -104,13 +104,13 @@ author:
   linkedin         : "aravindvenma"
   medium           :
   orcid            : #"http://orcid.org/yourorcidurl"
-  quora            : "https://www.quora.com/profile/M-Aravind-18"
+  quora            : #"https://www.quora.com/profile/M-Aravind-18"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aravindhakcat"
+  twitter          : "hackervind"
   vine             :
   weibo            :
   xing             :
